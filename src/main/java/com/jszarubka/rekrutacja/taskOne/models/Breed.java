@@ -1,4 +1,4 @@
-package com.jszarubka.rekrutacja.models;
+package com.jszarubka.rekrutacja.taskOne.models;
 
 import java.util.Comparator;
 

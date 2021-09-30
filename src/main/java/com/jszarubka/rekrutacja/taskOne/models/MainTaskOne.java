@@ -1,14 +1,11 @@
-package com.jszarubka.rekrutacja;
-
-import com.jszarubka.rekrutacja.models.Breed;
-import com.jszarubka.rekrutacja.models.Dog;
+package com.jszarubka.rekrutacja.taskOne.models;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Main {
+public class MainTaskOne {
 
     public static void main(String[] args) {
         Dog dachhund = new Dog().setBreed(Breed.DACHSHUND).setName("Szarik").setFciCertificate(true);

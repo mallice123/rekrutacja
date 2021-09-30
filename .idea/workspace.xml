@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14284345-938c-4f05-aa1e-992c50c450d8" name="Default Changelist" comment="" />
+    <list default="true" id="14284345-938c-4f05-aa1e-992c50c450d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/MainTaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/MainTaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Breed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Breed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jszarubka/rekrutacja/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jszarubka/rekrutacja/models/Breed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jszarubka/rekrutacja/models/Dog.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +24,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/MainTaskOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/MainTaskTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
@@ -24,20 +65,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Breed.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Breed.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
@@ -58,6 +87,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -76,6 +116,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Breed.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/MainTaskOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/fromFirstToLastBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/MainTaskTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/MainTaskTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/MainTaskOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/MainTaskTwo.java" />
       </list>
     </option>
   </component>
@@ -85,6 +132,7 @@
     <option name="width" value="1838" />
     <option name="height" value="789" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -132,6 +180,24 @@
               <item name="rekrutacja" type="b2602c69:ProjectViewProjectNode" />
               <item name="rekrutacja" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rekrutacja" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rekrutacja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rekrutacja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rekrutacja" type="462c0819:PsiDirectoryNode" />
+              <item name="taskTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rekrutacja" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rekrutacja" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1633025604393" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1633029473195" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -162,13 +228,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jszarubka.rekrutacja.Main" />
+  <component name="RunManager" selected="Application.MainTaskTwo">
+    <configuration name="MainTaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jszarubka.rekrutacja.taskOne.models.MainTaskOne" />
       <module name="rekrutacja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jszarubka.rekrutacja.*" />
+          <option name="PATTERN" value="com.jszarubka.rekrutacja.taskOne.models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,9 +242,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jszarubka.rekrutacja.taskTwo.MainTaskTwo" />
+      <module name="rekrutacja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jszarubka.rekrutacja.taskTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainTaskOne" />
+      <item itemvalue="Application.MainTaskTwo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainTaskTwo" />
+        <item itemvalue="Application.MainTaskOne" />
       </list>
     </recent_temporary>
   </component>
@@ -207,17 +291,17 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21420644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32969433" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286026" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -238,7 +322,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Dog.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Dog.java</url>
           <line>2</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -261,7 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Breed.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Breed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
@@ -272,7 +356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/models/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
@@ -282,13 +366,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskOne/models/MainTaskOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jszarubka/rekrutacja/taskTwo/MainTaskTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
